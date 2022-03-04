@@ -8,7 +8,6 @@
 The directory holding the manifest file can be added as an extension in developer mode in its current state. To load an unpacked extension in developer mode, follow these steps:
 
 <ol>
-    The directory holding the manifest file can be added as an extension in developer mode in its current state. To load an unpacked extension in developer mode, follow these steps:
 <li>Open the Extension Management page by navigating to chrome://extensions.
     <ul>
         <li>Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.</li>
